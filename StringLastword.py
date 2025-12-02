@@ -15,4 +15,4 @@ class Solution:
 
 
 solution = Solution()
-print(solution.lengthOfLastWord("   fly me   to   the moon  "))
+print(solution.lengthOfLastWord("   fly me   to   the moon "))
